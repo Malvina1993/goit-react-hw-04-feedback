@@ -1,0 +1,18 @@
+.feedback {
+    display: flex;
+    margin-left: 48px;
+    
+    gap: 24px;
+}
+
+.btnOpt {
+    font-size: 24px;
+    padding: 4px 8px;
+    background-color: rgb(235, 229, 229);
+    border-radius: 4px;
+}
+
+.btnOpt:hover{
+    color: white;
+    background-color: blue;
+}
